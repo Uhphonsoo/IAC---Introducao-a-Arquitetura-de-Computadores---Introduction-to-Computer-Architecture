@@ -1,5 +1,6 @@
 ; Projeto IAC - Parte 2 - 23/11/2019
-; Joao Afonso Silva, 90398 e Jean Leitao, 96977, grupo 10
+; Joao Afonso Silva, 90398
+
 ; versao final
 
 STACKBASE       EQU     8000h
