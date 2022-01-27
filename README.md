@@ -1,4 +1,4 @@
-# IAC Introducao a Arquitetura de Computadores - Introduction to Computer Architecture
+# IAC - Introducao a Arquitetura de Computadores - Introduction to Computer Architecture
 
 Project for Introducao a Arquitetura de Computadores - Introduction to Computer Architecture - Developed by João Silva.
 
