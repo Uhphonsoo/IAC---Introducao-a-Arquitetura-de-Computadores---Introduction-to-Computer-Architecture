@@ -1,5 +1,5 @@
 ; Projeto IAC - Parte 1 - 26/10/2019
-; Joao Afonso Silva, 90398 e Jean Leitao, 96977, grupo 10
+; Joao Afonso Silva, 90398
 
 STACKBASE       EQU     8000h
 iteracoes       EQU     50 ; corresponde a 6.25 segundos (t=0.125)
